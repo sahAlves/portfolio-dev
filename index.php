@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -148,5 +148,25 @@
         </section>
 
         <!-- contato -->
+         <section class="bg-[url(/assets/Background_Contacts.png)] bg-cover bg-center h-200 flex justify-center items-center flex-col">
+
+            <div class="text-center space-y-2">
+                <h1 class="text-[#BB72E9] font-[inconsolata] text-[18px]">Contato</h1>
+                <p class="text-[#E2E4E9] font-[asap] text-[25px] font-bold">Gostou do meu trabalho?</p>
+                <p class="text-[#C0C4CE] font-[maven pro] text-[16px]">Entre em contato ou acompanhe as minhas redes sociais!</p>
+            </div>
+
+            <div class="">
+                <div class="border-1 border-solid flex">
+                    <img class="w-5 h-5 flex-none" src="assets/linkedin.png" alt="">
+                    <span class="w-20 grow">Linkedin</span>
+                    <img class="w-5 h-5 flex-none" src="assets/arrow.png" alt="">
+                </div>
+                <div class="">Instagram</div>
+                <div class="">GitHub</div>
+                <div class="">E-mail</div>
+            </div>
+
+         </section>
     </body>
 </html>
