@@ -48,7 +48,7 @@
             <div class="mx-auto w-350">
                 <div class="grid grid-cols-2 gap-4">
 
-                    <div class="flex bg-[#292C34] p-2 rounded-[12px] border-1 justify-between space-x-3 hover:border-solid hover:border-gray-200 shadow-lg shadow-slate-900">
+                    <div class="flex bg-[#292C34] p-2 rounded-[12px] border-1 justify-between space-x-3 hover:border-solid hover:border-gray-200 shadow-lg shadow-slate-900 hover:cursor-pointer">
                         <div class="w-2/4">
                             <img class="h-full w-full rounded-lg object-cover" src="assets/image.png" alt="Travelgram">
                         </div>
@@ -64,7 +64,7 @@
                         </div>
                     </div>
 
-                    <div class="flex bg-[#292C34] p-2 rounded-[12px] border-1 justify-between space-x-3 hover:border-solid hover:border-gray-200 shadow-lg shadow-slate-900">
+                    <div class="flex bg-[#292C34] p-2 rounded-[12px] border-1 justify-between space-x-3 hover:border-solid hover:border-gray-200 shadow-lg shadow-slate-900 hover:cursor-pointer">
                         <div class="w-2/4">
                             <img class="h-full w-full rounded-lg object-cover" src="assets/image-1.png" alt="Receita">
                         </div>
@@ -80,7 +80,7 @@
                         </div>
                     </div>
 
-                    <div class="flex bg-[#292C34] p-2 rounded-[12px] justify-between space-x-3 border-1 hover:border-solid hover:border-gray-200 shadow-lg shadow-slate-900">
+                    <div class="flex bg-[#292C34] p-2 rounded-[12px] justify-between space-x-3 border-1 hover:border-solid hover:border-gray-200 shadow-lg shadow-slate-900 hover:cursor-pointer">
                         <div class="w-2/4">
                             <img class="h-full w-full rounded-lg object-cover" src="assets/image-2.png" alt="Tech News">
                         </div>
@@ -96,7 +96,7 @@
                         </div>
                     </div>
 
-                    <div class="flex bg-[#292C34] p-2 rounded-[12px] justify-between space-x-3 border-1 hover:border-solid hover:border-gray-200 shadow-lg shadow-slate-900">
+                    <div class="flex bg-[#292C34] p-2 rounded-[12px] justify-between space-x-3 border-1 hover:border-solid hover:border-gray-200 shadow-lg shadow-slate-900 hover:cursor-pointer">
                         <div class="w-2/4">
                             <img class="h-full w-full rounded-lg object-cover" src="assets/Thumbnail_Project-04.png" alt="Imagem Projeto">
                         </div>
@@ -112,7 +112,7 @@
                         </div>
                     </div>
 
-                    <div class="flex bg-[#292C34] p-2 rounded-[12px] justify-between space-x-3 border-1 hover:border-solid hover:border-gray-200 shadow-lg shadow-slate-900">
+                    <div class="flex bg-[#292C34] p-2 rounded-[12px] justify-between space-x-3 border-1 hover:border-solid hover:border-gray-200 shadow-lg shadow-slate-900 hover:cursor-pointer">
                         <div class="w-2/4">
                             <img class="h-full w-full rounded-lg object-cover" src="assets/Thumbnail_Project-06.png" alt="Imagem Projeto">
                         </div>
@@ -128,7 +128,7 @@
                         </div>
                     </div>
 
-                    <div class="flex bg-[#292C34] p-2 rounded-[12px] justify-between space-x-3 border-1 hover:border-solid hover:border-gray-200 shadow-lg shadow-slate-900">
+                    <div class="flex bg-[#292C34] p-2 rounded-[12px] justify-between space-x-3 border-1 hover:border-solid hover:border-gray-200 shadow-lg shadow-slate-900 hover:cursor-pointer">
                         <div class="w-2/4">
                             <img class="h-full w-full rounded-lg object-cover" src="assets/Thumbnail_Project-05.png" alt="Imagem Projeto">
                         </div>
