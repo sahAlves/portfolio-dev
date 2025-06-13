@@ -6,15 +6,17 @@
             <img class="h-[87.27px] w-[87.27px] rounded-full object-cover border-2 border-solid rounded-[500px]" src="assets/perfil.jpeg" alt="Foto Sabrina Souza">
         </div>
         <!-- about -->
-        <div class="w-200 text-center mb-[80px]">
-            <p class="text-[#C0C4CE] font-[inconsolata] text-[20px] leading-[120%] mb-[8px]">
+        <div class="w-full max-w-[700px] text-center mx-auto mb-[80px] px-4">
+            <p class="text-[#C0C4CE] font-[inconsolata] text-[16px] sm:text-[18px] md:text-[20px] leading-[140%] mb-[8px]">
                 Hello World! Meu nome é <span class="text-[#E3646E]">Sabrina Souza</span> e sou
             </p>
-            <h1 class="font-[asap] font-bold text-[56px] leading-[120%] text-[#E2E4E9] mb-[20px]">	
+
+            <h1 class="font-[asap] font-bold text-[32px] w-full sm:text-[40px] md:text-[48px] lg:text-[56px] leading-[120%] text-[#E2E4E9] mb-[20px]">
                 Desenvolvedora PHP
             </h1>
-            <p class="mx-auto font-[maven pro] text-[14px] leading-[140%] text-[#878EA1] w-165">
-                Transformo necessidades em aplicações reais, evolventes e funcionais. Desenvolvo sistemas através da minha paixão pela tecnologia, contribuindo com soluções inovadoras e eficazes para desafios complexos.
+
+            <p class="mx-auto font-[maven pro] text-[14px] sm:text-[16px] leading-[140%] text-[#878EA1] max-w-[700px]">
+                Transformo necessidades em aplicações reais, envolventes e funcionais. Desenvolvo sistemas através da minha paixão pela tecnologia, contribuindo com soluções inovadoras e eficazes para desafios complexos.
             </p>
         </div>
         <!-- techs -->

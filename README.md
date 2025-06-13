@@ -6,6 +6,8 @@ Este é o primeiro desafio da formação PHP da Rocketseat.
 
 Um portfólio desenvolvido em PHP, HTML e Tailwind CSS para apresentar projetos, contatos e informações pessoais.
 
+Como adicional para aprimorar o aprendizado, o portfólio foi desenvolvido de forma responsiva.
+
 ## Estrutura
 
 - `index.php`: Página principal do portfólio.

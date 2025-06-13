@@ -29,15 +29,16 @@
 
 ?>
 
-<section class="bg-[url(/assets/Background_Contacts.png)] bg-cover bg-center h-200 flex justify-center items-center flex-col">
+<section class="bg-[url(/assets/Background_Contacts.png)] bg-cover bg-center h-200 flex justify-center items-center flex-col p-2">
     <div class="text-center space-y-2 mb-[56px]">
         <h1 class="text-[#BB72E9] font-[inconsolata] text-[20px]">Contato</h1>
         <p class="text-[#E2E4E9] font-[asap] text-[24px] font-bold">Gostou do meu trabalho?</p>
         <p class="text-[#C0C4CE] font-[maven pro] text-[16px]">Entre em contato ou acompanhe as minhas redes sociais!</p>
     </div>
-    <ul style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-direction: column;">
+    <!-- <ul style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-direction: column;"> -->
+    <ul class="flex flex-col justify-center items-center gap-[16px]">
         <?php foreach($contacts as $c): ?>
-            <li class="w-[400px] h-[70px] bg-[#292C34] rounded-[8px] flex justify-between items-center p-[20px] border border-transparent hover:border-[#3996DB] cursor-pointer transition-colors duration-200 group">
+            <li class="w-[300px] sm:w-[400px] h-[70px] bg-[#292C34] rounded-[8px] flex justify-between items-center px-4 sm:px-5 py-4 border border-transparent hover:border-[#3996DB] cursor-pointer transition-colors duration-200 group">
                 <a href="<?=$c['url']?>" class="flex justify-between items-center w-full h-full" target="_blank" rel="noopener noreferrer">
                     <div class="flex items-center space-x-2">
                         <svg class="w-[28px] h-[28px] fill-[#878EA1] transition-colors duration-200 group-hover:fill-[#3996DB]" viewBox="<?=$c['viewBox']?>" xmlns="http://www.w3.org/2000/svg">
