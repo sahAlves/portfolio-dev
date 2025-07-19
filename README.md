@@ -4,6 +4,8 @@
 Este projeto é o **primeiro desafio** do Curso de Formação PHP da [Rocketseat](https://www.rocketseat.com.br/).  
 Um portfólio pessoal simples, construído em **PHP puro** com **Tailwind CSS**, focado em exibir seus projetos e formas de contato.
 
+![Preview do Projeto](./home.png)
+
 ---
 
 ## 🚀 Como rodar localmente
