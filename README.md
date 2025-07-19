@@ -1,31 +1,66 @@
-# PortfolioDev
 
-Este é o primeiro desafio da formação PHP da Rocketseat.
+# 💼 Portfolio Dev - Desafio Rocketseat PHP
 
-## Sobre
+Este projeto é o **primeiro desafio** do Curso de Formação PHP da [Rocketseat](https://www.rocketseat.com.br/).  
+Um portfólio pessoal simples, construído em **PHP puro** com **Tailwind CSS**, focado em exibir seus projetos e formas de contato.
 
-Um portfólio desenvolvido em PHP, HTML e Tailwind CSS para apresentar projetos, contatos e informações pessoais.
+---
 
-Como adicional para aprimorar o aprendizado, o portfólio foi desenvolvido de forma responsiva.
+## 🚀 Como rodar localmente
 
-## Estrutura
+```bash
+# Clone este repositório
+git clone https://github.com/sahAlves/portfolio-dev.git
 
-- `index.php`: Página principal do portfólio.
-- `components/`: Componentes reutilizáveis (sobre, projetos, contatos).
-- `assets/`: Imagens e ícones utilizados no site.
+# Acesse a pasta do projeto
+cd portfolio-dev
 
-## Como rodar
+# Inicie o servidor local em PHP
+php -S localhost:8888
+```
 
-1. Clone o repositório.
-2. Abra o projeto em um servidor local (ex: XAMPP, WAMP ou o embutido do PHP).
-3. Acesse `http://localhost/seu-caminho/index.php` no navegador.
+Depois, abra o navegador em:  
+👉 [http://localhost:8888](http://localhost:8888)
 
-## Tecnologias
+---
 
-- PHP
-- HTML
-- Tailwind CSS
+## 🧰 Tecnologias usadas
 
-## Autor
+- **PHP**
+- **Tailwind CSS**
+- HTML5 + CSS3
+- Banco de dados (opcional): **SQLite** ou **MySQL**
 
-Sabrina Souza
+---
+
+## 📁 Estrutura do projeto
+
+```
+portfolioDev/
+├── index.php
+├── components/
+│   ├── about.php
+│   ├── contacts.php
+│   └── projects.php
+├── assets/
+│   └── (imagens e ícones do site)
+```
+
+---
+
+## 📸 Seções do portfólio
+
+- ✨ Sobre mim  
+- 🚀 Projetos (por enquanto fictícios)
+- 📬 Contato (com links para redes sociais)
+
+---
+
+## 📌 Observações
+
+- O projeto pode ser facilmente adaptado para utilizar um banco de dados com **MySQL** ou **SQLite**.
+- Estilização moderna feita com **Tailwind CSS** para responsividade e visual profissional.
+
+---
+
+Feito com 💙 por [@sahAlves](https://github.com/sahAlves)
