@@ -59,7 +59,6 @@ portfolioDev/
 
 ## 📌 Observações
 
-- O projeto pode ser facilmente adaptado para utilizar um banco de dados com **MySQL** ou **SQLite**.
 - Estilização moderna feita com **Tailwind CSS** para responsividade e visual profissional.
 
 ---
