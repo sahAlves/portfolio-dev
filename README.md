@@ -31,7 +31,6 @@ Depois, abra o navegador em:
 - **PHP**
 - **Tailwind CSS**
 - HTML5 + CSS3
-- Banco de dados (opcional): **SQLite** ou **MySQL**
 
 ---
 
